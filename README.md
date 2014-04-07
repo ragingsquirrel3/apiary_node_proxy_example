@@ -1,6 +1,6 @@
 # About
 
-This is an example of connecting to an (Apiary)[http://apiary.io/] with a node server at the `/api` endpoint.
+This is an example of connecting to an (Apiary)[http://apiary.io/] API with a node server at the `/api` endpoint.
 
 # Usage
 
